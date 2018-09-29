@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "IOSEC Admin Panel"
+AuthUserFile /YOUR_FULL_UNIX_PATH_HERE/iosec_admin/.htpasswd
+Require valid-user
